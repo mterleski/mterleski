@@ -10,15 +10,15 @@ Há 10 anos estudando e ensinando Matemática. Agora utilizando essa experiênci
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=Clusterizacaodospenguins&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=Clusterizacaodospenguins&theme=dark)](https://github.com/mterleski/Clusterizacaodospenguins)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=RegressaoPolinomialAlugueis&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=RegressaoPolinomialAlugueis&theme=dark)](https://github.com/mterleski/RegressaoPolinomialAlugueis)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=RandomForestVinhos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=RandomForestVinhos&theme=dark)](https://github.com/mterleski/RandomForestVinhos)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=RegressaoLogistica&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=RegressaoLogistica&theme=dark)](https://github.com/mterleski/RegressaoLogistica)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=ECommerce-ProjAnalytics&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=ECommerce-ProjAnalytics&theme=dark)](https://github.com/mterleski/ECommerce-ProjAnalytics)
 
 ### Linguagens utilizadas
 
