@@ -1,4 +1,25 @@
-## Hi there 👋
+### Olá 👋
+
+###### Sobre o Matheus
+Há 10 anos estudando e ensinando Matemática. Agora utilizando essa experiência na Ciência de Dados e geração de insights.
+
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mterleski&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/mterleski/Clusterizacaodospenguins)
+
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mterleski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/matheusterleskisilva/)
 
 <!--
 **mterleski/mterleski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
