@@ -10,7 +10,7 @@ Há 10 anos estudando e ensinando Matemática. Agora utilizando essa experiênci
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=Clusterizacaodospenguins.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=Clusterizacaodospenguins&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
