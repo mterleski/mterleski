@@ -1,33 +1,29 @@
-### Olá 👋
+### Olá, eu sou o Matheus 👋
 
-###### Sobre o Matheus
-Há 10 anos estudando e ensinando Matemática. Agora utilizando essa experiência na Ciência de Dados e geração de insights.
-
+###### Cientista de Dados | Mestre em Matemática
+Com mais de uma década dedicada ao ensino e estudo da Matemática, hoje aplico esse rigor analítico na **Ciência de Dados**. Transformo grandes volumes de dados em insights estratégicos, utilizando estatística avançada e algoritmos de Machine Learning para resolver problemas complexos e otimizar a tomada de decisão.
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mterleski&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Matheus GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mterleski&show_icons=true&theme=dark)
 
-### Projetos
+### Projetos em Destaque 📊
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=Clusterizacaodospenguins&theme=dark)](https://github.com/mterleski/Clusterizacaodospenguins)
+| | |
+| :---: | :---: |
+| [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=Clusterizacaodospenguins&theme=dark)](https://github.com/mterleski/Clusterizacaodospenguins) | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=RegressaoPolinomialAlugueis&theme=dark)](https://github.com/mterleski/RegressaoPolinomialAlugueis) |
+| [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=RandomForestVinhos&theme=dark)](https://github.com/mterleski/RandomForestVinhos) | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=RegressaoLogistica&theme=dark)](https://github.com/mterleski/RegressaoLogistica) |
+| [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=ECommerce-ProjAnalytics&theme=dark)](https://github.com/mterleski/ECommerce-ProjAnalytics) | |
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=RegressaoPolinomialAlugueis&theme=dark)](https://github.com/mterleski/RegressaoPolinomialAlugueis)
+### Linguagens & Skills 🧠
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=RandomForestVinhos&theme=dark)](https://github.com/mterleski/RandomForestVinhos)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=RegressaoLogistica&theme=dark)](https://github.com/mterleski/RegressaoLogistica)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mterleski&repo=ECommerce-ProjAnalytics&theme=dark)](https://github.com/mterleski/ECommerce-ProjAnalytics)
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mterleski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mterleski&layout=compact&theme=dark)
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/matheusterleskisilva/)
-
+<a href="https://www.linkedin.com/in/matheusterleskisilva/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">
+</a>
 <!--
 **mterleski/mterleski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
