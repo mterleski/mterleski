@@ -11,7 +11,7 @@ Cientista de Dados, mestre e graduado em Matemática, especialista em Educação
 
 | | |
 | :---: | :---: |
-| [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=Deteccao-de-fraudes&theme=dark)](https://github.com/mterleski/Deteccao-de-fraudes) | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=evasaoescolar&theme=dark)](https://github.com/mterleski/evasaoescolar) |
+| [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=credit-card-fraud-detection&theme=dark)](https://github.com/mterleski/credit-card-fraud-detection) | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=evasaoescolar&theme=dark)](https://github.com/mterleski/evasaoescolar) |
 | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=IntencaodeCompras&theme=dark)](https://github.com/mterleski/IntencaodeCompras) | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=ECommerce-ProjAnalytics&theme=dark)](https://github.com/mterleski/ECommerce-ProjAnalytics) |
 | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=RegressaoPolinomialAlugueis&theme=dark)](https://github.com/mterleski/RegressaoPolinomialAlugueis) | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=Clusterizacaodeclientes&theme=dark)](https://github.com/mterleski/Clusterizacaodeclientes) |
 
