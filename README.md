@@ -12,8 +12,8 @@ Cientista de Dados, mestre e graduado em Matemática, especialista em Educação
 | | |
 | :---: | :---: |
 | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=credit-card-fraud-detection&theme=dark)](https://github.com/mterleski/credit-card-fraud-detection) | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=evasaoescolar&theme=dark)](https://github.com/mterleski/evasaoescolar) |
-| [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=IntencaodeCompras&theme=dark)](https://github.com/mterleski/IntencaodeCompras) | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=ECommerce-ProjAnalytics&theme=dark)](https://github.com/mterleski/ECommerce-ProjAnalytics) |
-| [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=RegressaoPolinomialAlugueis&theme=dark)](https://github.com/mterleski/RegressaoPolinomialAlugueis) | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=Clusterizacaodeclientes&theme=dark)](https://github.com/mterleski/Clusterizacaodeclientes) |
+| [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=customer-purchase-intent-prediction&theme=dark)](https://github.com/mterleski/customer-purchase-intent-prediction) | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=ecommerce-analytics&theme=dark)](https://github.com/mterleski/ecommerce-analytics) |
+| [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=rental-price-prediction-polynomial-regression&theme=dark)](https://github.com/mterleski/rental-price-prediction-polynomial-regression) | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mterleski&repo=client-clustering&theme=dark)](https://github.com/mterleski/client-clustering) |
 
 ### Linguagens & Skills 🧠
 
