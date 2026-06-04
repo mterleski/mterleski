@@ -1,7 +1,7 @@
 ### Olá, eu sou o Matheus 👋
 
 ###### Cientista de Dados | Mestre em Matemática
-Com mais de uma década dedicada ao ensino e estudo da Matemática, hoje aplico esse rigor analítico na **Ciência de Dados**. Transformo grandes volumes de dados em insights estratégicos, utilizando estatística avançada e algoritmos de Machine Learning para resolver problemas complexos e otimizar a tomada de decisão.
+Cientista de Dados, mestre e graduado em Matemática, especialista em Educação Financeira. Possuo sólida formação em estatística, modelagem matemática, machine learning e análise de dados. Desenvolvi projetos de detecção de fraudes, previsão de evasão escolar, segmentação de clientes e analytics para e-commerce, utilizando Python, SQL, Power BI, Looker Studio e bibliotecas de machine learning. Experiência consolidada em resolução de problemas complexos, comunicação de resultados e tomada de decisão baseada em dados.
 
 ### Detalhes
 
